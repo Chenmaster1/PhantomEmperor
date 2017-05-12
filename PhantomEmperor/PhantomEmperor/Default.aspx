@@ -11,18 +11,15 @@
 										<div style="text-align: center">Hi!<br>
 <br>
 <b>
-    <span style="font-size: 18pt">P</span>
-    HANTOM 
-
+    <span style="font-size: 18pt">P</span>HANTOM 
 </b>
 <b>
-    <span style="font-size: 18pt">E</span>
-    MPEROR
-
+    <span style="font-size: 18pt">E</span>MPEROR
 </b>
 <br>
 <br>
 stellt sich vor!
+<br>
 <br>
 </div>
         Wir sind eine kleine Gruppe von Freunden, die sich zusammengefunden haben um Albion Online zu spielen, zu feiern und zu genießen. Wir sind vor allem eine Feierabend- und Wochenendsgilde. Uns geht es darum aus unserer Zeit, die wir für Albion zur Verfügung haben das beste Rauszuholen. Sowohl in Hinblick auf PvE, als auch auf PvP. Aber dies kann man vor allem in einem Spiel wie Albion nicht alleine erreichen. Genau aus diesem Grund haben wir uns entschlossen, eine Gilde zu gründen und Gleichgesinnte zu suchen. Trotz unserer (mittlerweile) Casual Einstellung, sind unsere Ziele für Albion hochgesteckt:<br>
