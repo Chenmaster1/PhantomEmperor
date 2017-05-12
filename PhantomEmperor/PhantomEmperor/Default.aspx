@@ -6,7 +6,7 @@
         <h1>PHANTOM EMPEROR</h1>
         <p class="lead">Eine Albion Online Gilde</p>
     </div>
-<div style="font-size: 16pt;margin-right: 20%">
+<div style="font-size: 16pt;margin-right: 10%; margin-left: 10%">
 																				
     <div style="text-align: center">Hi!
     <br>
