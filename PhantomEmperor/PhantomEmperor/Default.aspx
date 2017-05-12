@@ -46,7 +46,10 @@
     <ul style="list-style-type: disc" class="nativeList">
         <li>Startgebiet der Gilde und erste Niederlassung<br></li>
     </ul>
-    Fühlst DU dich angesprochen? Möchtest du gerne Teil dieser Gilde werden? Dann sollten wir uns kennen lernen! Melde dich einfach per PN im Forum oder schreibe mich Ingame als "Chenmaster" an. Ich bin vor allem Abends online oder bewerbe dich direkt bei uns in Discord: <a href="https://discord.gg/Rh6Xyj4" target="_blank">Phantom Emperor</a>.									
+    Fühlst DU dich angesprochen? Möchtest du gerne Teil dieser Gilde werden? Dann sollten wir uns kennen lernen! Melde dich einfach per PN im Forum oder schreibe mich Ingame als "Chenmaster" an. Ich bin vor allem Abends online oder bewerbe dich direkt bei uns in Discord: <a href="https://discord.gg/Rh6Xyj4" target="_blank">Phantom Emperor</a>.		
+    <br>
+    <br>
+    Finde uns auch im Forum: <a href="https://forum.albiononline.com/index.php/Thread/52142-Phantom-Emperor-stellt-sich-vor/" target="_blank">Forum</a>
 </div>
     <!--
     <div class="row">
