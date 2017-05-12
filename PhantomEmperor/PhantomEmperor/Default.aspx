@@ -12,10 +12,10 @@
     <br>
     <br>
     <b>
-        <span style="font-size: 18pt">P</span>HANTOM 
+        <span style="font-size: 20pt">P</span>HANTOM 
     </b>
     <b>
-        <span style="font-size: 18pt">E</span>MPEROR
+        <span style="font-size: 20pt">E</span>MPEROR
     </b>
     <br>
     <br>
