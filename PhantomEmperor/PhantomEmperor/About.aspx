@@ -15,8 +15,8 @@
         <h2>Gildenführung</h2>
         <h3>Chenmaster</h3>
         <p>"Chenmaster" ist der Anführer der Gilde. Zusammen mit "crex" und "sph3x" ist er auf die Idee gekommen eine eigene Gilde zu gründen. Er spielt gerne eine Rolle, in der viel Verantwortung zu tragen ist und wird deshalb wahrscheinlich einen Heiler spielen. Am meisten hat es ihm der PvP-Aspekt des Spiels angetan.</p>
-        <h3>crex</h3>
-        <p>"crex" ist einer der drei Gründer der Gilde und ist von diesen als letztes zu Albion Online gekommen. Obwohl er noch nicht lange dabei ist, ist er Feuer und Flamme für dieses Spiel. Er kann Stunden lang mit seinem Ochsen unterwegs sein und beim Ressourcen farmen abschalten. Er bevorzugt schnelle Waffen und greift gerne aus dem Hinterhalt an.</p>
+        <h3>cReX</h3>
+        <p>"cReX" ist einer der drei Gründer der Gilde und ist von diesen als letztes zu Albion Online gekommen. Obwohl er noch nicht lange dabei ist, ist er Feuer und Flamme für dieses Spiel. Er kann Stunden lang mit seinem Ochsen unterwegs sein und beim Ressourcen farmen abschalten. Er bevorzugt schnelle Waffen und greift gerne aus dem Hinterhalt an.</p>
         <h3>sph3x</h3>
         <p>"sph3x" steht gerne in sicherer Entfernung und deckt den Gegner mit Pfeilen ein. Deswegen wird er vorraussichtlich ein Bogen- oder Armbrustschütze. Auch er ist einer der Gründer der Gilde.</p>
     </div>
