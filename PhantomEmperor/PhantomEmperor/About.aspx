@@ -9,15 +9,22 @@
     </div>
     <div class="jumbotron" style="margin-right: 10%; margin-left: 10%">
         <h2>Die Gilde</h2>
-        <p>Phantom Emperor wurde von drei Freunden "sph3x", "crex" und "Chenmaster" gegründet und sieht sich als Feierabendgilde mit hochgesteckten Zielen. Bei uns ist eigentlich jeder willkommen, es sollte nur auf der persönlichen Ebene gut funktionieren und du solltest bereit seind nach den Gildenregeln zu handeln.</p>
+        <p>Phantom Emperor wurde von den drei Freunden "sph3x", "cReX" und "Chenmaster" gegründet und sieht sich als Feierabendgilde mit hochgesteckten Zielen. Bei uns ist eigentlich jeder willkommen, es sollte nur auf der persönlichen Ebene gut funktionieren und du solltest bereit sein nach den Gildenregeln zu handeln.</p>
     </div>
     <div class="jumbotron" style="margin-right: 10%; margin-left: 10%">
         <h2>Gildenführung</h2>
         <h3>Chenmaster</h3>
-        <p>"Chenmaster" ist der Anführer der Gilde. Zusammen mit "crex" und "sph3x" ist er auf die Idee gekommen eine eigene Gilde zu gründen. Er spielt gerne eine Rolle, in der viel Verantwortung zu tragen ist und wird deshalb wahrscheinlich einen Heiler spielen. Am meisten hat es ihm der PvP-Aspekt des Spiels angetan.</p>
+        <p>"Chenmaster" ist der Anführer der Gilde. Zusammen mit "cReX" und "sph3x" ist er auf die Idee gekommen eine eigene Gilde zu gründen. Er spielt gerne eine Rolle, in der viel Verantwortung zu tragen ist und wird deshalb wahrscheinlich einen Heiler spielen. Am meisten hat es ihm der PvP-Aspekt des Spiels angetan.</p>
         <h3>cReX</h3>
         <p>"cReX" ist einer der drei Gründer der Gilde und ist von diesen als letztes zu Albion Online gekommen. Obwohl er noch nicht lange dabei ist, ist er Feuer und Flamme für dieses Spiel. Er kann Stunden lang mit seinem Ochsen unterwegs sein und beim Ressourcen farmen abschalten. Er bevorzugt schnelle Waffen und greift gerne aus dem Hinterhalt an.</p>
         <h3>sph3x</h3>
         <p>"sph3x" steht gerne in sicherer Entfernung und deckt den Gegner mit Pfeilen ein. Deswegen wird er vorraussichtlich ein Bogen- oder Armbrustschütze. Auch er ist einer der Gründer der Gilde.</p>
+    </div>
+    <div class="jumbotron" style="margin-right: 10%; margin-left: 10%">
+        <h2>Mitglieder</h2>
+        <h3>Namlith</h3>
+        <p>TBD</p>
+        <h3>Stormcaller</h3>
+        <p>TBD</p>
     </div>
 </asp:Content>
