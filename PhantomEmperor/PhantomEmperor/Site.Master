@@ -54,6 +54,7 @@
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="~/">Startseite</a></li>
                         <li><a runat="server" href="~/About">Informationen</a></li>
+                        <li><a runat="server" href="~/Announcement">Ankündigungen</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <!--<li><a runat="server" onclick="javascript:window.open('https://discord.gg/Rh6Xyj4')">Discord</a></li>-->
