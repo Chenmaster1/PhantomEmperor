@@ -4,10 +4,15 @@
 
 <html lang="de">
 <head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Language" content="de"/>
+    <meta name="author" content="Phantom Emperor">
+    <meta name="KEYWORDS" content="Albion Online, Albion, Phantom Emperor, Albion Gilde, Albion Online Gilde, Albion Phantom Emperor, Albion Online Phantom Emperor, Phantomemperor"/>
+    <meta name="description" content="Phantom Emperor - Eine Albion Online Gilde" />
     <title><%: Page.Title %> Phantom Emperor - Albion Online</title>
+
 
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
@@ -47,6 +52,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
                     </button>
                     <a class="navbar-brand" runat="server" href="~/">Phantom Emperor</a>
                 </div>
@@ -55,6 +61,7 @@
                         <li><a runat="server" href="~/">Startseite</a></li>
                         <li><a runat="server" href="~/About">Informationen</a></li>
                         <li><a runat="server" href="~/Announcement">Ankündigungen</a></li>
+                        <li><a runat="server" href="~/Contact">Kontakt</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <!--<li><a runat="server" onclick="javascript:window.open('https://discord.gg/Rh6Xyj4')">Discord</a></li>-->
