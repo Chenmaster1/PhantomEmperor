@@ -54,6 +54,8 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
                     </button>
                     <a class="navbar-brand" runat="server" href="~/">Phantom Emperor</a>
                 </div>
@@ -62,11 +64,11 @@
                         <li><a runat="server" href="~/">Startseite</a></li>
                         <li><a runat="server" href="~/About">Informationen</a></li>
                         <li><a runat="server" href="~/Announcement">Ankündigungen</a></li>
-                        <li><a runat="server" href="~/Contact">Kontakt</a></li>
+                        <li><a runat="server" href="~/Alliance">Allianz</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
-                        <!--<li><a runat="server" onclick="javascript:window.open('https://discord.gg/Rh6Xyj4')">Discord</a></li>-->
-                        <li><a runat="server" href="https://discord.gg/Rh6Xyj4" target="_blank">Discord</a></li>
+                        <li><a runat="server" href="~/Contact">Kontakt</a></li>
+                        <li><a runat="server" href="https://discord.gg/Rh6Xyj4" target="_blank">Discord</a></li> 
                     </ul>       
                 </div>
             </div>

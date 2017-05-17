@@ -32,7 +32,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="Content-Language" content="de"/>
     <meta name="author" content="Phantom Emperor">
-    <meta name="KEYWORDS" content="Albion Online, Albion, Phantom Emperor, Albion Gilde, Albion Online Gilde, Albion Phantom Emperor, Albion Online Phantom Emperor, Phantomemperor, Gilde, Deutsch, Gilde deutsch, deutsche Gilde, Albion Online deutsche Gilde"/>
+    <meta name="KEYWORDS" content="Albion Online, Albion, Phantom Emperor, Albion Gilde, Albion Online Gilde, Albion Phantom Emperor, Albion Online Phantom Emperor, Phantomemperor"/>
     <meta name="description" content="Phantom Emperor - Eine Albion Online Gilde" />
     <meta name="google-site-verification" content="9vCf-b27pbb5PG54V8_yMyNyygq7cRtpLtpUC2M07Gc" />
     <title><%: Page.Title %> Phantom Emperor - Albion Online</title>
@@ -77,6 +77,8 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
                     </button>
                     <a class="navbar-brand" runat="server" href="~/">Phantom Emperor</a>
                 </div>
@@ -85,10 +87,10 @@
                         <li><a runat="server" href="~/">Startseite</a></li>
                         <li><a runat="server" href="~/About">Informationen</a></li>
                         <li><a runat="server" href="~/Announcement">Ankündigungen</a></li>
-                        <li><a runat="server" href="~/Contact">Kontakt</a></li>
+                        <li><a runat="server" href="~/Alliance">Allianz</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
-                        <!--<li><a runat="server" onclick="javascript:window.open('https://discord.gg/Rh6Xyj4')">Discord</a></li>-->
+                        <li><a runat="server" href="~/Contact">Kontakt</a></li>
                         <li><a runat="server" href="https://discord.gg/Rh6Xyj4" target="_blank">Discord</a></li>
                     </ul>       
                 </div>
