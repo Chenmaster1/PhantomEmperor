@@ -8,7 +8,7 @@
         </div>      
     </div>
     <h3>Kontakt für Spieler</h3>
-    <p>Du willst bei uns mitmachen? Oder weinfach nur so Kontakt mit uns aufnehmen? Dann stell dich doch einfach ersteinmal bei uns vor!</p>
+    <p>Du willst bei uns mitmachen? Oder einfach nur so Kontakt mit uns aufnehmen? Dann stell dich doch einfach ersteinmal bei uns vor! Und zwar am besten bei uns in Discord oder ingame bei "sph3x", "cReX" oder "Chenmaster".</p>
     <!--Hier kommt das Formuler rein:
         Vorname
         Nachname
