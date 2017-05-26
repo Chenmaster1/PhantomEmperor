@@ -1,12 +1,19 @@
-﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="PhantomEmperor._Default" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="PhantomEmperor._Default" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div style="background-image: url('Images/AO_Screen.PNG');align-items: center; display: flex; height:300px">
         <div style="margin-left: auto;margin-right: auto;vertical-align: middle;">
-            <h1 style="text-align: center">PHANTOM EMPEROR</h1>
+            <h1 style="text-align: center"><a runat="server" href="~/">PHANTOM EMPEROR</a></h1>
             <p class="lead" style="text-align: center">Eine Albion Online Gilde</p>
         </div>      
+    </div>
+
+    <div class="jumbotron"style="font-size: 16pt;margin-right: 10%; margin-left: 10%">
+        <span>Aufgrund der Beta und des anstehenden Wipes sind wir zurzeit nicht sehr aktiv in Albion Online unterwegs. Zu jedem Contentpatch wreden wir uns die Änderungen natürlich ansehen. Ansonsten sind wir in anderen Games zu finden.</span>
+        <span>Trotzdem sidn wir natürlich noch auf der Suche nach weiteren Mitspielern, die zu Release zusammen mit uns in Albion eintauchen wollen.</span>
+        <br>
+        <span>Du willst wissen, was wir sonst alles zocken? Dann schau doch einfach <a href="/Games">hier</a> vorbei!</span>
     </div>
 
     <div class="jumbotron" style="font-size: 16pt;margin-right: 10%; margin-left: 10%">

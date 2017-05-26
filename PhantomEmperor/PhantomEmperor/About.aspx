@@ -3,15 +3,15 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <div style="background-image: url('Images/AO_Screen.PNG');align-items: center; display: flex; height:300px">
         <div style="margin-left: auto;margin-right: auto;vertical-align: middle;">
-            <h1 style="text-align: center">PHANTOM EMPEROR</h1>
+            <h1 style="text-align: center"><a runat="server" href="~/">PHANTOM EMPEROR</a></h1>
             <p class="lead" style="text-align: center">Informationen</p>
         </div>      
     </div>
-    <div class="jumbotron" style="margin-right: 10%; margin-left: 10%">
+    <div class="jumbotron" style="font-size: 16pt;margin-right: 10%; margin-left: 10%">
         <h2>Die Gilde</h2>
         <p>Phantom Emperor wurde von den drei Freunden "sph3x", "cReX" und "Chenmaster" gegründet und sieht sich als Feierabendgilde mit hochgesteckten Zielen. Bei uns ist eigentlich jeder willkommen, es sollte nur auf der persönlichen Ebene gut funktionieren und du solltest bereit sein nach den Gildenregeln zu handeln.</p>
     </div>
-    <div class="jumbotron" style="margin-right: 10%; margin-left: 10%">
+    <div class="jumbotron" style="font-size: 16pt;margin-right: 10%; margin-left: 10%">
         <h2>Gildenführung</h2>
         <h3>Chenmaster</h3>
         <p>"Chenmaster" ist der Anführer der Gilde. Zusammen mit "cReX" und "sph3x" ist er auf die Idee gekommen eine eigene Gilde zu gründen. Er spielt gerne eine Rolle, in der viel Verantwortung zu tragen ist und wird deshalb wahrscheinlich einen Heiler spielen. Am meisten hat es ihm der PvP-Aspekt des Spiels angetan.</p>
