@@ -6,6 +6,9 @@
             <p class="lead" style="text-align: center">Ankündigungen</p>
         </div>      
     </div>
-    <p>Hier sind alle unsere Ankündigungen zu sehen.</p>
+    <div class="jumbotron" style="font-size: 16pt;margin-right: 10%; margin-left: 10%">
+        <h3>Release</h3>
+        <p>Wir werden direkt zu release mit Albion Online loslegen und schauen wie weit wir in den ersten tagen kommen. Vielleicht sieht man sich ja dann In-Game!</p>
+    </div>
 
 </asp:Content>
