@@ -21,8 +21,8 @@
     </form>
 </body>
 </html>--%>
-<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="PhantomEmperor.SiteMaster" %>
-
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Mobile.master.cs" Inherits="PhantomEmperor.SiteMaster_Mobile" %>
+<%@ Register Src="~/ViewSwitcher.ascx" TagPrefix="friendlyUrls" TagName="ViewSwitcher" %>--%>
 <!DOCTYPE html>
 
 <html lang="de">
@@ -102,7 +102,7 @@
                 <p>&copy; <%: DateTime.Now.Year %> Phantom Emperor</p>
             </footer>
         </div>
-
+        <friendlyUrls:ViewSwitcher runat="server" />
     </form>
 </body>
 </html>

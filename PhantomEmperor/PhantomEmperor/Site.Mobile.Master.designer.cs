@@ -10,6 +10,15 @@
 namespace PhantomEmperor {
     
     
-    public partial class Site_Mobile {
+    public partial class SiteMaster_Mobile {
+        
+        /// <summary>
+        /// MainContent-Steuerelement
+        /// </summary>
+        /// <remarks>
+        /// Automatisch generiertes Feld
+        /// Zum Ändern Felddeklaration aus der Designerdatei in eine Code-Behind-Datei verschieben.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ContentPlaceHolder MainContent;
     }
 }
