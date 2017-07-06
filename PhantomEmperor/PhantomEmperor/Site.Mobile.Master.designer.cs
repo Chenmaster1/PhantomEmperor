@@ -10,7 +10,7 @@
 namespace PhantomEmperor {
     
     
-    public partial class SiteMaster_Mobile {
+    public partial class Site_Mobile {
         
         /// <summary>
         /// MainContent-Steuerelement
