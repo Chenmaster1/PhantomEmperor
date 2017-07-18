@@ -9,7 +9,9 @@
     <div class="jumbotron" style="font-size: 16pt;margin-right: 10%; margin-left: 10%">
         <p>Zurzeit speilen wir noch folgende Spiele:</p>
         <ul>
-            <li>League of Legends: veRoX, Chenmaster</li>
+            <li>League of Legends: veRoX, Chenmaster, sph3x</li>
+			<li>Crossout: veRoX, Chenmaster</li>
+			<li>Diablo 3: sph3x, Chenmaster</li>
         </ul>
     </div>
 </asp:Content>

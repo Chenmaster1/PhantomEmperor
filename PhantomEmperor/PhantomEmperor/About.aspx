@@ -9,7 +9,7 @@
     </div>
     <div class="jumbotron" style="font-size: 16pt;margin-right: 10%; margin-left: 10%">
         <h2>Die Gilde</h2>
-        <p>Phantom Emperor wurde von den drei Freunden "sph3x", "cReX" und "Chenmaster" gegründet und sieht sich als Feierabendgilde mit hochgesteckten Zielen. Bei uns ist eigentlich jeder willkommen, es sollte nur auf der persönlichen Ebene gut funktionieren und du solltest bereit sein nach den Gildenregeln zu handeln.</p>
+        <p>Phantom Emperor wurde von den drei Freunden "sph3x", "veRoX" und "Chenmaster" gegründet und sieht sich als Feierabendgilde mit hochgesteckten Zielen. Bei uns ist eigentlich jeder willkommen, es sollte nur auf der persönlichen Ebene gut funktionieren und du solltest bereit sein nach den Gildenregeln zu handeln.</p>
     </div>
     <div class="jumbotron" style="font-size: 16pt;margin-right: 10%; margin-left: 10%">
         <h2>Gildenführung</h2>

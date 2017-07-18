@@ -15,7 +15,7 @@
             <li><b>Ich kann die Zone nicht verlassen:</b> Wie beim Laden. gedulden und warten, bis der Ladebildschirm auftaucht.<br></li>
             <li><b>Ich bekomme meine Rewards nicht:</b> Auch hier gilt einfach warten. Habt ihr eure Rewards beansprucht liegen diese nach einer Weile im Postfach.<br></li>
             <li><b>Ich habe keinen Premiumstatus:</b> Den bekommst du noch. Hier musst du dich wieder etwas gedulden.<br></li>
-            <li><b>Wo sind meine 200 Learning Points?:</b> Die erhälst du noch. Nach der Antwort auf meinem Ticket sind die Learning Points spätestens nach der nächsten Warteung auf dem Konto. Passiv werden aber trotzdem welche generiert!<br></li>
+            <li><b>Wo sind meine 200 Learning Points?:</b> Die erhälst du noch. Nach der Antwort auf meinem Ticket sind die Learning Points spätestens nach der nächsten Wartung auf dem Konto. Passiv werden aber trotzdem welche generiert!<br></li>
         </ul>
     </div>
 	<div class="jumbotron" style="font-size: 16pt;margin-right: 10%; margin-left: 10%">
