@@ -7,9 +7,13 @@
             <p class="lead" style="text-align: center">Kontakt</p>
         </div>      
     </div>
-    <h3>Kontakt für Spieler</h3>
-    <p>Du willst bei uns mitmachen? Oder einfach nur so Kontakt mit uns aufnehmen? Dann stell dich doch einfach ersteinmal bei uns vor! Und zwar am besten bei uns in Discord oder ingame bei "sph3x", "cReX" oder "Chenmaster".</p>
-    <!--Hier kommt das Formuler rein:
+	<div class="jumbotron" style="font-size: 16pt;margin-right: 10%; margin-left: 10%">
+		<h3>Kontakt</h3>
+		<p>Du willst bei uns mitmachen? Oder einfach nur so Kontakt mit uns aufnehmen? Dann stell dich doch einfach ersteinmal bei uns vor!</p>
+		<p>Oder willst du eine Allianz oder ein Bündnis mit unserer Gilde eingehen? Dann melde dich bei uns und wir schauen ob wir zusammen passen!</p>
+		<p>Und zwar am besten bei uns in Discord oder ingame bei "sph3x", "veRoX" oder "Chenmaster".</p>
+    </div>
+		<!--Hier kommt das Formuler rein:
         Vorname
         Nachname
         Ingame Name
