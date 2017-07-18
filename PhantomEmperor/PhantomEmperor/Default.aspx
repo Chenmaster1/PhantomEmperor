@@ -10,10 +10,7 @@
     </div>
 
     <div class="jumbotron"style="font-size: 16pt;margin-right: 10%; margin-left: 10%">
-        <span>Aufgrund der Beta und des anstehenden Wipes sind wir zurzeit nicht sehr aktiv in Albion Online unterwegs. Zu jedem Contentpatch werden wir uns die Änderungen natürlich ansehen. Ansonsten sind wir in anderen Games zu finden.</span>
-        <span>Trotzdem sind wir natürlich noch auf der Suche nach weiteren Mitspielern, die zu Release zusammen mit uns in Albion eintauchen wollen.</span>
-        <br>
-        <span>Du willst wissen, was wir sonst alles zocken? Dann schau doch einfach <a href="/Games">hier</a> vorbei oder besuche uns auf Discord.</span>
+        <span>Der Release ist da! Und wir natürlich auch! Phantom Emperor ist wieder aktiv</span>
     </div>
 
     <div class="jumbotron" style="font-size: 16pt;margin-right: 10%; margin-left: 10%">
